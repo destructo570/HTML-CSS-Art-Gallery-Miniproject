@@ -1,6 +1,6 @@
-# Frontend Mentor - Shortly URL shortening API Challenge solution
+# Frontend Mentor - IP address tracker solution
 
-This is a solution to the [Shortly URL shortening API Challenge challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [IP address tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -24,12 +24,10 @@ This is a solution to the [Shortly URL shortening API Challenge challenge on Fro
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
-- Shorten any valid URL
-- See a list of their shortened links, even after refreshing the browser
-- Copy the shortened link to their clipboard in a single click
-- Receive an error message when the `form` is submitted if:
-  - The `input` field is empty
+- View the optimal layout for each page depending on their device's screen size
+- See hover states for all interactive elements on the page
+- See their own IP address on the map on the initial page load
+- Search for any IP addresses or domains and see the key information and location
 
 ### Screenshot
 
