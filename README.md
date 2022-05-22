@@ -10,3 +10,9 @@
 
 #### [Live Preview](https://frontendmaster-ip-tracker.vercel.app/)
 
+#Teck Stack
+- HTML
+- CSS
+- JavaScript
+- IP Geolocation API
+
